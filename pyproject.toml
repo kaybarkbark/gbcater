@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "gbcater"
+version = "0.1.0"
+description = "Parser for determining Game Boy metadata based on ROM files"
+authors = ["k <k@kidotai.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+click = "^8.1.3"
+attr = "^0.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
