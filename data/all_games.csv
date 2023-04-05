@@ -586,6 +586,7 @@ America Oudan Ultra Quiz Part 3 - Champion Taikai (Japan).gb,ULTRA3,MBC1,MBC1,16
 Medarot 4 - Kabuto Version (Japan).gbc,MEDAROT4KBTB4MJ,MBC5+RAM+Battery,MBC5,256,1,0x800,0x400000,True,False,False,False,"UNKNOWN(b'9C',9C)",False,CGB Only,False,0,Japan,c5effc311c2248d6de58b487e729406b,True
 Gift (Europe) (Rev 1) (Proto).gbc,GIFTBGFP,MBC5,MBC5,64,0,0x0,0x100000,False,False,False,False,"UNKNOWN(b'5T',5T)",False,CGB Only,False,1,Non-Japan (0x1),0f3161b9427b5540ff20f0d793a5d047,True
 Probotector (Europe).gb,PROBOTECTOR,MBC1,MBC1,8,0,0x0,0x20000,False,False,False,False,Ultra,True,None,False,0,Non-Japan (0x1),298c80fe568bb2ff8bb7e4dfe5862a9d,False
+Robot Ponkottsu - Star Version (J) [C][!].gbc,ROBOPON STAR,HuC3,HuC3,64,4,0x4000,0x100000,False,False,False,False,Hudson Soft,False,Extra CGB Functions,True,0,Japan,9bdc654fc8acb425fe4b68269928fbfb,False
 Donkey Kong Land (Japan) (SGB Enhanced).gb,DONKEYKONGLAND,MBC1+RAM+Battery,MBC1,32,1,0x800,0x80000,True,False,False,False,Nintendo R&D1,False,None,True,0,Japan,94d72bf09aa55761cfa723882dafc131,False
 Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced).gbc,MSPACMANSCEAQCE,MBC5,MBC5,32,0,0x0,0x80000,False,False,False,False,"UNKNOWN(b'AF',AF)",False,Extra CGB Functions,True,0,Non-Japan (0x1),4d090ceaa53d571db00d7160ca4be69d,True
 "Mary-Kate and Ashley - Winners Circle (USA, Europe).gbc",MARY KATE ABHFE,MBC5,MBC5,64,0,0x0,0x100000,False,False,False,False,Acclaim,False,CGB Only,False,0,Non-Japan (0x1),9de083ff607f9a8022fde52d598160e8,False
@@ -888,6 +889,7 @@ Daikaijuu Monogatari - The Miracle of the Zone (Japan) (SGB Enhanced).gb,MIRACLE
 International Karate 2000 (Europe).gbc,INTKARATEBIKP,MBC5,MBC5,64,0,0x0,0x100000,False,False,False,False,"UNKNOWN(b'6M',6M)",False,CGB Only,False,0,Non-Japan (0x1),86c1b5f04495e22eedbec15e1a320ff3,True
 Brain Drain (Japan) (SGB Enhanced).gb,BRAIN DRAIN,MBC1,MBC1,8,0,0x0,0x20000,False,False,False,False,"UNKNOWN(b'B0',B0)",False,None,True,0,Japan,ded286dc9fb5708292f01db0839e0102,True
 Burning Paper (Japan).gb,BURNING PAPER,MBC1,MBC1,8,0,0x0,0x20000,False,False,False,False,LOZC,True,None,False,0,Japan,cb0a5d103c01d1d82d324602a45dd21b,False
+Robot Ponkottsu - Moon Version (J) [C][!].gbc,ROBO MOONH3UJ,HuC3,HuC3,64,4,0x4000,0x100000,False,False,False,False,Hudson Soft,False,Extra CGB Functions,True,0,Japan,ba0debf5e0cda9adfa409dab91abb6a9,False
 Frogger 2 - Swampy's Revenge (USA) (Rev-A).gbc,FROGGER2BH2E,MBC5+RAM+Battery,MBC5,64,1,0x800,0x100000,True,False,False,False,Hasbro Interactive,False,CGB Only,False,1,Non-Japan (0x1),6db4b6a1cceebc9ab2629c83a5c838ae,False
 "Pit Fighter (USA, Europe).gb",PIT FIGHTER,MBC1,MBC1,16,0,0x0,0x40000,False,False,False,False,THQ,True,None,False,0,Non-Japan (0x1),09066099d74c7398f6f99ea8ccefa479,False
 Vigilante 8 (USA).gbc,VIGILANTE 8VV8E,MBC5+Rumble,MBC5,64,0,0x0,0x100000,False,False,True,False,"UNKNOWN(b'5P',5P)",False,CGB Only,False,0,Non-Japan (0x1),cb5348c1b469d698eccddce99a16d384,True
